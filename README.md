@@ -38,3 +38,7 @@ _envisum_ can be integrated in your workflow as a plug-in in following ways:
 ## Liked the concept?
 - Leave a star if you like the overall idea and presentation.
 - I would appreciate advice, constructive criticism and a word of encouragement.
+
+## Credits
+
+- [Dillinger.io](https://dillinger.io/) - Generating this markdown document.
