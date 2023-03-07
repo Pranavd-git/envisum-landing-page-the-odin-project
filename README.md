@@ -1,7 +1,7 @@
 # envisum
 ## _Going Beyond Vision_
 
-_envisum_ is a cloud-enabled, mobile-ready, offline-storage compatible,
+envisum is a cloud-enabled, mobile-ready, offline-storage compatible,
 Project Management Tool.
 
 - From Software Design & Development to Film Making 
