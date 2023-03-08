@@ -47,3 +47,5 @@ _envisum_ can be integrated in your workflow as a plug-in in following ways:
 - [Pixabay](https://www.pexels.com/photo/low-angle-view-of-lighting-equipment-on-shelf-257904/) - Information section image #1 by Pixabay from Pexels.
 
 - [fauxels](https://www.pexels.com/photo/group-of-person-sitting-indoors-3184306/) - Information section image #2 by fauxels from Pexels.
+
+- [Christina Morillo](https://www.pexels.com/photo/black-and-silver-laptop-computer-on-round-brown-wooden-table-1181243/) - Information section image #3 by Christina Morillo from Pexels
