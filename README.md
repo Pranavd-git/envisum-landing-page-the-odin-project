@@ -42,3 +42,5 @@ _envisum_ can be integrated in your workflow as a plug-in in following ways:
 ## Credits
 
 - [Dillinger.io](https://dillinger.io/) - Generating this markdown document.
+
+- [RF._.studio](https://www.pexels.com/photo/crop-african-american-student-studying-craters-of-moon-on-tablet-at-observatory-3825569/) - Hero section image Photo by RF._.studio from Pexels.
