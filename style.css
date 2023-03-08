@@ -147,6 +147,7 @@ button {
 	max-height: auto;
 	text-align: center;
 	font-size: 18px;
+	font-weight: 300;
 }
 .features img {
 	border-radius: 1rem;
