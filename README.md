@@ -10,6 +10,8 @@
 
 - [Christina Morillo](https://www.pexels.com/photo/black-and-silver-laptop-computer-on-round-brown-wooden-table-1181243/) - Information section image #3 by Christina Morillo from Pexels
 
+- [Tima Miroshnichenko](https://www.pexels.com/photo/people-working-in-the-office-5453811/) - Information section image #4 by Tima Miroshnichenko from Pexels
+
 ## Languages/Tools Used:
 HTML5, CSS, VSCode, GitHub Pages to publish the page
 
