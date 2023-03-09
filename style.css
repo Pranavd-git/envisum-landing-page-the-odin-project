@@ -127,6 +127,9 @@ button {
 	padding: 6px 32px;
 	border-radius: 0.5rem;
 }
+button:hover{
+	cursor: pointer;
+}
 .info-section {
 	background-color: white;
 	padding: 2rem 10rem 1rem;
